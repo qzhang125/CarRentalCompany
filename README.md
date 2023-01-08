@@ -3,9 +3,11 @@
 Name: Qiuyu Zhang
 Student ID: 1244549
 Date: Oct22, 2022
+
 To run the program: Typing make in the terminate
 
 Question 1:
+
 Run the progeam: Type ./q1
 ```
 qzhang17@percy:~/cis_2520$ ./q1
