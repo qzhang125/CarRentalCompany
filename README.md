@@ -68,9 +68,3 @@ Car Name ----------- Mileage ----------Plate Number
 6. Print all the lists
 7. Quit
 Choose Your Option: 
-
-Question 2:
-To run the program: ./q2 [input parameter]
-Sample: 
-qzhang17@percy:~/cis_2520$ ./q2 12+53-*
-Answer is: 6.00.
